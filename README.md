@@ -12,3 +12,7 @@ the second one: setInterval(() => {
     video.playbackRate = 10;
   }
 }, 500);
+
+
+
+How to use: press F12 on your keyboard and paste this in the console. 
